@@ -1,6 +1,6 @@
 # mdmod-plugin-toc
 
-mdmod plugin to create table of contents.
+[mdmod](https://github.com/uetchy/mdmod) plugin to create table of contents.
 
 ## Install
 
@@ -12,7 +12,7 @@ npm i -g mdmod-plugin-toc
 ## Use
 
 ```md
-<!-- START mdmod ({use: 'toc'}) -->
+<!-- START mdmod {use: 'toc'} -->
 
 - [mdmod-plugin-toc](#mdmod-plugin-toc)
   - [Install](#install)
