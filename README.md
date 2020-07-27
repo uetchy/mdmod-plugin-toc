@@ -14,7 +14,6 @@ npm i -g mdmod-plugin-toc
 ```md
 <!-- START mdmod ({use: 'toc'}) -->
 
-
 - [mdmod-plugin-toc](#mdmod-plugin-toc)
   - [Install](#install)
   - [Use](#use)
