@@ -1,7 +1,7 @@
 {
   "name": "mdmod-plugin-toc",
   "description": "mdmod plugin to create table of contents.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io)",
   "dependencies": {
     "doctoc": "^1.4.0"
