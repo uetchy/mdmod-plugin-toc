@@ -1,0 +1,25 @@
+{
+  "name": "mdmod-plugin-toc",
+  "description": "mdmod plugin to create table of contents.",
+  "version": "0.0.0",
+  "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io)",
+  "dependencies": {
+    "doctoc": "^1.4.0"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uetchy/mdmod-plugin-toc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uetchy/mdmod-plugin-toc/issues"
+  },
+  "homepage": "https://github.com/uetchy/mdmod-plugin-toc",
+  "keywords": [
+    "mdmod"
+  ],
+  "license": "Apache-2.0"
+}
