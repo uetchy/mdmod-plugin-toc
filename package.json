@@ -3,12 +3,20 @@
   "description": "mdmod plugin to create table of contents.",
   "version": "0.1.1",
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io)",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "doctoc": "^1.4.0"
   },
-  "main": "index.js",
+  "devDependencies": {
+    "execa": "^4.0.3",
+    "jest": "^26.1.0",
+    "mdmod": "^0.4.0"
+  },
+  "main": "lib/index.js",
   "files": [
-    "index.js"
+    "lib"
   ],
   "repository": {
     "type": "git",

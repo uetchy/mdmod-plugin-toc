@@ -1,5 +1,10 @@
 # mdmod-plugin-toc
 
+[![npm](https://flat.badgen.net/npm/v/mdmod-plugin-toc)][npm-url]
+[![npm: total downloads](https://flat.badgen.net/npm/dt/mdmod-plugin-toc)][npm-url]
+
+[npm-url]: https://npmjs.org/package/mdmod-plugin-toc
+
 [mdmod](https://github.com/uetchy/mdmod) plugin to create table of contents.
 
 ## Install
