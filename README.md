@@ -5,7 +5,7 @@
 
 [npm-url]: https://npmjs.org/package/mdmod-plugin-toc
 
-[mdmod](https://github.com/uetchy/mdmod) plugin to create table of contents.
+[mdmod](https://github.com/uetchy/mdmod) plugin to a create table of contents.
 
 ## Install
 
