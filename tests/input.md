@@ -1,4 +1,4 @@
-<!-- START mdmod {use: '../src/index.js'} -->
+<!-- START mdmod {use: '../lib/index.js'} -->
 
 # Hello
 
