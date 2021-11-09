@@ -3,8 +3,11 @@
 ## Development Guide
 
 ```bash
-git clone https://github.com/uetchy/mdmod-plugin-toc.git && cd mdmod-plugin-toc
 yarn install
+yarn link
+cd tests
+yarn link mdmod-plugin-github-sponsors
+yarn test
 ```
 
 ## Release Guide (Maintainers only)
