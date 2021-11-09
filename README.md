@@ -10,8 +10,8 @@
 ## Install
 
 ```bash
-npm i -g mdmod-plugin-toc
-# or `npm i mdmod-plugin-toc` to use it locally
+npm i -g mdmod mdmod-plugin-toc
+# or `npm i mdmod mdmod-plugin-toc` to use it locally
 ```
 
 ## Use
